@@ -1,12 +1,12 @@
-- 👋 Hi, I’m LMX
-- 👀 I’m interested in 羽毛球，编程，中医
-- 🌱 I’m currently learning python ；C++
-- 💞️ I’m looking to collaborate on like-minded people
-- 📫 How to reach me ...微：13927632797 ；Q：3697785547（非志同道合，请勿扰）
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 嗨，我是 LMX
+- 👀 我对共享球，编程，中医感兴趣
+- 🌱 我目前正在学习 python ；C++
+- 💞️ 我正在寻找志同道合的人合作
+- 📫 如何联系我...微：13927632797 ；Q：3697785547（非志同道合，请勿打扰）
+- 😄 ：NCT python二级 ；C++暂无成就
+-  ⚡ 
 
 <!---
-Eiffel-Tower-LMX/Eiffel-Tower-LMX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Eiffel-Tower-LMX/Eiffel-Tower-LMX 是一个✨特殊✨存储库，因为它的“README.md”（此文件）出现在您的 GitHub 个人资料上。
+您点击可以“预览”链接查看您的更改。
 --->
